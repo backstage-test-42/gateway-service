@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: gateway-service
   description: Gateway Service
+  title: Gateway Title
   labels:
     goVersion: go1.15.3
     category: music
